@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+}
+
+header{
+  background-image: url(https://isuta.jp/wp-content/uploads/2016/03/theparking1.jpg);
+  /* background-image: url(https://www.global-auto06.com/wp-content/themes/global_sp/img/campaign/luxury-plan/luxury-plan.jpg); */
+  background-size: cover;
+  width: auto;
+  height: 1000px;
+}
+
+.akasaka_robo{
+  width: 100px;
+  height: auto;
+}
+
+.header_top,.logout{
+  background-color: white;
+  display: flex;
+}
+
